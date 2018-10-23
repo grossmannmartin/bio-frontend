@@ -16,7 +16,8 @@
                 </ul>
                 <ul class="navbar-nav mr-2 order-2">
                     <li class="nav-item small"><a class="nav-link" href="/static/cv-grossmann.pdf">Download CV</a></li>
-                    <li class="nav-item small"><a class="nav-link" href="https://github.com/grossmannmartin/bio">Source code</a></li>
+                    <li class="nav-item small"><a class="nav-link" href="https://github.com/grossmannmartin/bio">Backend</a></li>
+                    <li class="nav-item small"><a class="nav-link" href="https://github.com/grossmannmartin/bio-frontend">Frontend</a></li>
                 </ul>
             </div>
         </nav>
